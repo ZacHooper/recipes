@@ -2,3 +2,6 @@ spacy
 pytesseract
 numpy
 opencv-python
+pandas
+jupyter
+notebook

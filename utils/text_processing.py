@@ -28,6 +28,10 @@ def is_ingredient_sent(paragraph: list, is_paragraph: bool = True) -> bool:
         ingredient_span = paragraph
 
     print(ingredient_span.text)
+
+    print(
+        [(token.text, token.pos_, token.dep_, token.tag_) for token in ingredient_span]
+    )
     # Only Ingredient's begin with a number
     if list(ingredient_span)[0].pos_ == "NUM":
         return True
