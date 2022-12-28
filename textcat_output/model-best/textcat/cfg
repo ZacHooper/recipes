@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "title",
+    "blurb",
+    "ingredient",
+    "method",
+    "other"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
