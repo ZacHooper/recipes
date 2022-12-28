@@ -1,0 +1,4 @@
+spacy
+pytesseract
+numpy
+opencv-python
