@@ -7,6 +7,9 @@ from spacy.language import Language
 from utils.text_processing import process_text, is_ingredient_sent
 import json
 
+# set to True if you want to manually classify text
+USER_INPUT = False
+
 ### --------------------- ###
 #       Load Models         #
 ### --------------------- ###
@@ -103,14 +106,14 @@ for text in texts:
     potential_cats = doc.cats
     # get max value
     max_value = max(potential_cats.values())
-    if max_value > 0.5:
-        # get key of max value
-        max_key = [k for k, v in potential_cats.items() if v == max_value]
-    else:
+    if max_value < 0.5 and USER_INPUT:
         # get input from user
         max_key = input(
             f"Could not classify {text}. \nPlease enter a category: ('title', 'blurb', 'ingredient', 'method', 'other')\nInput topic: "
         )
+    else:
+        # get key of max value
+        max_key = [k for k, v in potential_cats.items() if v == max_value]
     cats.append({"text": text, "topic": max_key, "scores": potential_cats})
 
 print(json.dumps(cats, indent=4))
