@@ -1450,37 +1450,17 @@
         }
     },
     {
-        "text": "This dish is all about the sauce, | have suggested making more than you will need, as it keeps well in the fridge for a few weeks and makes almost anything from sandwiches to salad bowls taste even more delicious.",
+        "text": "This dish is all about the sauce, I have suggested making more than you will need, as it keeps well in the fridge for a few weeks and makes almost anything from sandwiches to salad bowls taste even more delicious.",
         "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "\u2014_",
-        "topic": {
-            "blurb": 0.0,
+            "blurb": 1.0,
             "ingredient": 0.0,
             "method": 0.0,
-            "other": 1.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "Start with the XO sauce. Heat the oil in a small frying pan over a medium heat. Add the red onion, chopped chillies and garlic and a pinch of salt and fry, stirring occasionally, for 15 minutes, until everything is glossy and completely soft. Stir in the dried chilli flakes and smoked paprika and remove from the heat. Add the remaining sauce ingredients and stir well to combine. Reserve 4 tablespoons of the XO sauce for the tofu.",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
             "other": 0.0,
             "title": 0.0
         }
     },
     {
-        "text": "rest of the sauce will keep well in a jar in the fridge for up to 3 weeks.",
+        "text": "Start with the XO sauce. Heat the oil in a small frying pan over a medium heat. Add the red onion, chopped chillies and garlic and a pinch of salt and fry, stirring occasionally, for 15 minutes, until everything is glossy and completely soft. Stir in the dried chilli flakes and smoked paprika and remove from the heat. Add the remaining sauce ingredients and stir well to combine. Reserve 4 tablespoons of the XO sauce for the tofu. The rest of the sauce will keep well in a jar in the fridge for up to 3 weeks.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -1500,17 +1480,7 @@
         }
     },
     {
-        "text": "tofu for 3 minutes on each side, until golden and crispy. Add the garlic, ginger and spring onions and cook for another minute, then add the soy sauce and cook for about 30 seconds before spooning in the reserved XO sauce. Cook for 3-4 minutes until everything is thickened and caramelised. Remove from the heat and stir in the coriander, then put",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "onto a plate.",
+        "text": "Cook the tofu for 3 minutes on each side, until golden and crispy. Add the garlic, ginger and spring onions and cook for another minute, then add the soy sauce and cook for about 30 seconds before spooning in the reserved XO sauce. Cook for 3-4 minutes until everything is thickened and caramelised. Remove from the heat and stir in the coriander, then put onto a plate.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -1690,7 +1660,7 @@
         }
     },
     {
-        "text": "2. red chillies, finely chopped",
+        "text": "2 red chillies, finely chopped",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1780,17 +1750,17 @@
         }
     },
     {
-        "text": "TO SERVE 300g brown rice (see page 193)",
+        "text": "TO SERVE",
         "topic": {
             "blurb": 0.0,
-            "ingredient": 1.0,
+            "ingredient": 0.0,
             "method": 0.0,
-            "other": 0.0,
+            "other": 1.0,
             "title": 0.0
         }
     },
     {
-        "text": "af\\s) ",
+        "text": "300g brown rice (see page 193)",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1810,7 +1780,7 @@
         }
     },
     {
-        "text": "2. tablespoons extra virgin olive oil, plus extra for greasing",
+        "text": "2 tablespoons extra virgin olive oil, plus extra for greasing",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1880,7 +1850,7 @@
         }
     },
     {
-        "text": "AOg green olives, pitted and roughly chopped",
+        "text": "4Og green olives, pitted and roughly chopped",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1900,7 +1870,7 @@
         }
     },
     {
-        "text": "1% tablespoons sherry vinegar",
+        "text": "1 1/2 tablespoons sherry vinegar",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1930,7 +1900,7 @@
         }
     },
     {
-        "text": "1 teaspoon vegetable stock powder or 400ml hot",
+        "text": "1 teaspoon vegetable stock powder or 400ml hot vegetable stock",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1940,7 +1910,17 @@
         }
     },
     {
-        "text": "vegetable stock",
+        "text": "FOR THE TOPPING",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "40g breadcrumbs",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1950,17 +1930,7 @@
         }
     },
     {
-        "text": "FOR THE TOPPING 40g breadcrumbs 30g Manchego or vegan cheese,",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 1.0,
-            "method": 0.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "finely grated",
+        "text": "30g Manchego or vegan cheese, finely grated",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -1973,24 +1943,14 @@
         "text": "Piquant smoked paprika pasta bake",
         "topic": {
             "blurb": 0.0,
-            "ingredient": 1.0,
+            "ingredient": 0.0,
             "method": 0.0,
             "other": 0.0,
-            "title": 0.0
+            "title": 1.0
         }
     },
     {
-        "text": "| can\u2019t get enough of baked pasta. There are far fancier things to eat for dinner but almost nothing that is more comforting. Sauce bubbling at the edges, a crisp golden top. This pasta bake has its heart in Italy but has borrowed a few Spanish flavours too. It is made often. The pasta goes",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "into the bake uncooked here , saving a little time.",
+        "text": "I can't get enough of baked pasta. There are far fancier things to eat for dinner but almost nothing that is more comforting. Sauce bubbling at the edges, a crisp golden top. This pasta bake has its heart in Italy but has borrowed a few Spanish flavours too. It is made often. The pasta goes into the bake uncooked here, saving a little time.",
         "topic": {
             "blurb": 1.0,
             "ingredient": 0.0,
@@ -2010,21 +1970,11 @@
         }
     },
     {
-        "text": "Grease a 20cm x 30cm deep baking dish with olive oil. Toss the onion, fennel, garlic and fennel seeds in the baking dish with 2 tablespoons of olive oil and half a teaspoon of flaky sea salt and place in the hot oven",
+        "text": "Grease a 20cm x 30cm deep baking dish with olive oil. Toss the onion, fennel, garlic and fennel seeds in the baking dish with 2 tablespoons of olive oil and half a teaspoon of flaky sea salt and place in the hot oven for 15 minutes until starting to soften but not yet colouring",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
             "method": 0.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "for 15 minutes until starting to soften but not yet colouring",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
             "other": 0.0,
             "title": 0.0
         }
@@ -2060,17 +2010,7 @@
         }
     },
     {
-        "text": "After the pasta has had its time in the oven, lift it out, remove the foil and scatter the breadcrumb mix over the top. Return.to the oven for 10-12 minutes until golden and crisp on top. Allow the pasta bake to rest out of the oven for at least 10 minutes before serving. This will help the",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "sauce to thicken (and the pasta won't burn your mouth as you eat it!). ",
+        "text": "After the pasta has had its time in the oven, lift it out, remove the foil and scatter the breadcrumb mix over the top. Return.to the oven for 10-12 minutes until golden and crisp on top. Allow the pasta bake to rest out of the oven for at least 10 minutes before serving. This will help the sauce to thicken (and the pasta won't burn your mouth as you eat it!). ",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2153,9 +2093,9 @@
         "text": "4 unwaxed limes",
         "topic": {
             "blurb": 0.0,
-            "ingredient": 0.0,
+            "ingredient": 1.0,
             "method": 0.0,
-            "other": 1.0,
+            "other": 0.0,
             "title": 0.0
         }
     },
@@ -2170,7 +2110,7 @@
         }
     },
     {
-        "text": "250ml thick Greek or coconut",
+        "text": "250ml thick Greek or coconut yoghurt",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -2200,7 +2140,7 @@
         }
     },
     {
-        "text": "a large bunch of coriander leaves,   roughly chopped",
+        "text": "a large bunch of coriander leaves, roughly chopped",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -2213,14 +2153,14 @@
         "text": "Roasted squash with lemongrass, peanut & lime",
         "topic": {
             "blurb": 0.0,
-            "ingredient": 1.0,
+            "ingredient": 0.0,
             "method": 0.0,
             "other": 0.0,
-            "title": 0.0
+            "title": 1.0
         }
     },
     {
-        "text": "A one-tray dinner that takes roast squash in a more unusual flavour direction: heady lemongrass, crunch from roasted peanuts, punchy ginger and lime and chilli with some yoghurt for acidity. For the really hungry, some brown or basmati rice here would work, but | eat this just as it is.",
+        "text": "A one-tray dinner that takes roast squash in a more unusual flavour direction: heady lemongrass, crunch from roasted peanuts, punchy ginger and lime and chilli with some yoghurt for acidity. For the really hungry, some brown or basmati rice here would work, but I eat this just as it is.",
         "topic": {
             "blurb": 1.0,
             "ingredient": 0.0,
@@ -2230,7 +2170,7 @@
         }
     },
     {
-        "text": "Heat the oven to 200\u00b0C/180\u00b0C fan/gas 6. If your squash is a butternut or thin-skinned variety, there is no need to peel it. Halve it, scoop out the seeds and cut into thick slices or boats. Lay them on a roasting",
+        "text": "Heat the oven to 200\u00b0C/180\u00b0C fan/gas 6. If your squash is a butternut or thin-skinned variety, there is no need to peel it. Halve it, scoop out the seeds and cut into thick slices or boats. Lay them on a roasting tray and drizzle with the oil.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2240,7 +2180,7 @@
         }
     },
     {
-        "text": "tray and drizzle with the oil.",
+        "text": "Bash the coriander and cardamom seeds in a pestle and mortar.  Add the chopped lemongrass and bash again to break it down a little.  Scatter half this mixture over the squash with a good pinch of salt, and the chopped chillies, keeping the other half of the lemongrass mixture for later.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2250,7 +2190,7 @@
         }
     },
     {
-        "text": "Bash the coriander and cardamom seeds in a pestle and mortar.  Add the chopped lemongrass and bash again to break it down a little.  Scatter half this mixture over the squash with a good pinch of salt, and",
+        "text": "Use a fine grater to zest 2 of the limes over the top of the squash, then cut the 2 limes in half and squeeze the juice over as well. Toss everything together and put the lot into the hot oven for 45 minutes, or until the squash is golden.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2260,7 +2200,7 @@
         }
     },
     {
-        "text": "the chopped chillies, keeping the other half of the lemongrass mixture for later.",
+        "text": "Meanwhile, make the sauce. Put the reserved lemongrass mixture into a bowl with the zest and juice of the remaining limes, finely grate in the ginger, add the yoghurt and mix well.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2270,57 +2210,7 @@
         }
     },
     {
-        "text": "Use a fine grater to zest 2 of the limes over the top of the squash, then cut the 2 limes in half and squeeze the juice over as well.",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "everything together and put the lot into the hot oven for 45 minutes, or until the squash is golden.",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "Meanwhile, make the sauce. Put the reserved lemongrass mixture",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "into a bowl with the zest and juice of the remaining limes, finely grate in the ginger, add the yoghurt and mix well.",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "Once the squash is roasted perfectly, lay it ona serving platter,",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "sprinkle over the peanuts and coriander leaves and serve the yoghurt on the side for spooning over. ",
+        "text": "Once the squash is roasted perfectly, lay it ona serving platter, sprinkle over the peanuts and coriander leaves and serve the yoghurt on the side for spooning over.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2340,27 +2230,7 @@
         }
     },
     {
-        "text": "The quickest of soups that uses three of my favourite flavour boosters: coconut milk, miso and tamarind. The coconut cream brings a richness which adds a depth of flavour. The miso brings umami which creates layers of flavours, and the tamarind adds a sharpness which offsets",
-        "topic": {
-            "blurb": 1.0,
-            "ingredient": 0.0,
-            "method": 0.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "the coconut. They are ingredients | keep on hand for nights when food needs to be fast. All sit happily in the cupboard or fridge for months. I've purposely left the choice of green veg down to you so you can use what you have and what's in season. Just be sure to cut things which take a",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "little longer to cook into smaller pieces, so everything cooks evenly.",
+        "text": "The quickest of soups that uses three of my favourite flavour boosters: coconut milk, miso and tamarind. The coconut cream brings a richness which adds a depth of flavour. The miso brings umami which creates layers of flavours, and the tamarind adds a sharpness which offsets the coconut. They are ingredients I keep on hand for nights when food needs to be fast. All sit happily in the cupboard or fridge for months. I've purposely left the choice of green veg down to you so you can use what you have and what's in season. Just be sure to cut things which take a little longer to cook into smaller pieces, so everything cooks evenly.",
         "topic": {
             "blurb": 1.0,
             "ingredient": 0.0,
@@ -2380,7 +2250,7 @@
         }
     },
     {
-        "text": "Next, pour 200ml water into the other pan, add the coconut milk and tamarind, grate in the ginger and put over a medium heat. Peel and thinly slice the sweet potato and add to the pan. Simmer over a high",
+        "text": "Next, pour 200ml water into the other pan, add the coconut milk and tamarind, grate in the ginger and put over a medium heat. Peel and thinly slice the sweet potato and add to the pan. Simmer over a high heat for 10 minutes or until the sweet potato is cooked.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2390,7 +2260,7 @@
         }
     },
     {
-        "text": "heat for 10 minutes or until the sweet potato is cooked.   in a small bow! mix the miso paste with 4 tablespoons of cold water.",
+        "text": "In a small bowl mix the miso paste with 4 tablespoons of cold water. Take the broth off the heat and stir in the miso mixture.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2400,27 +2270,7 @@
         }
     },
     {
-        "text": "Take the broth off the heat and stir in the miso mixture,",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "Once the noodles are cooked, divide between two bowls. Put the broth back on the heat, add the green vegetables to the broth and allow to simmer for 2-3 minutes until the vegetables are just cooked and any greens have wilted, then take off the heat. Ladle the soup over the",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 0.0,
-            "method": 1.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "noodles and top with the togarashi, herbs, chilli and spring onions.",
+        "text": "Once the noodles are cooked, divide between two bowls. Put the broth back on the heat, add the green vegetables to the broth and allow to simmer for 2-3 minutes until the vegetables are just cooked and any greens have wilted, then take off the heat. Ladle the soup over the noodles and top with the togarashi, herbs, chilli and spring onions.",
         "topic": {
             "blurb": 0.0,
             "ingredient": 0.0,
@@ -2500,17 +2350,7 @@
         }
     },
     {
-        "text": "2 large handfuls of green vegetables (I use a mixture of shredded greens, broccoli and",
-        "topic": {
-            "blurb": 0.0,
-            "ingredient": 1.0,
-            "method": 0.0,
-            "other": 0.0,
-            "title": 0.0
-        }
-    },
-    {
-        "text": "green beans)",
+        "text": "2 large handfuls of green vegetables (I use a mixture of shredded greens, broccoli and green beans)",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
@@ -2530,7 +2370,7 @@
         }
     },
     {
-        "text": "2 tablespoons tdgarashi seasoning",
+        "text": "2 tablespoons togarashi seasoning",
         "topic": {
             "blurb": 0.0,
             "ingredient": 1.0,
