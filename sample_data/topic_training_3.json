@@ -1438,5 +1438,1135 @@
             "other": 0.0,
             "title": 0.0
         }
+    },
+    {
+        "text": "Greens & caramelised tofu with XO sauce",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 1.0
+        }
+    },
+    {
+        "text": "This dish is all about the sauce, | have suggested making more than you will need, as it keeps well in the fridge for a few weeks and makes almost anything from sandwiches to salad bowls taste even more delicious.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "\u2014_",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Start with the XO sauce. Heat the oil in a small frying pan over a medium heat. Add the red onion, chopped chillies and garlic and a pinch of salt and fry, stirring occasionally, for 15 minutes, until everything is glossy and completely soft. Stir in the dried chilli flakes and smoked paprika and remove from the heat. Add the remaining sauce ingredients and stir well to combine. Reserve 4 tablespoons of the XO sauce for the tofu.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "rest of the sauce will keep well in a jar in the fridge for up to 3 weeks.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Heat a splash of oil in a large frying pan over a high heat.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "tofu for 3 minutes on each side, until golden and crispy. Add the garlic, ginger and spring onions and cook for another minute, then add the soy sauce and cook for about 30 seconds before spooning in the reserved XO sauce. Cook for 3-4 minutes until everything is thickened and caramelised. Remove from the heat and stir in the coriander, then put",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "onto a plate.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Wipe the frying pan clean with kitchen paper. Pour in a tablespoon of oil and heat to medium-high. Stir in the shredded cavolo nero and corn and add the rice wine vinegar and 1 teaspoon of soy sauce. Cook for 2-3 minutes, stirring a couple of times until the corn is blackened in places and the greens are bright and crisp at the edges. Stir through the tofu.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Serve in warm bowls with cooked brown rice.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "SERVES 2",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "FOR THE TOFU AND GREENS",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "vegetable oil, for frying",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "200g extra-firm tofu, cut into 2cm-thick strips",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 cloves of garlic, peeled and finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a thumb-sized piece of ginger, peeled and finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a bunch of spring onions, thinly sliced",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 teaspoons soy sauce, plus 1 teaspoon extra for the greens",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a small bunch of coriander, leaves and stalks roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 head of cavolo nero, shredded",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "the kernels from 1 corn on the cob or 200g frozen kernels",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 teaspoon rice wine vinegar",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "FOR THE XO SAUCE",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 tablespoon flavourless vegetable or rapeseed oil",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 red onion, very finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2. red chillies, finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "4 cloves of garlic, finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "14 teaspoon dried chilli flakes",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 teaspoon smoked paprika",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "3 tablespoons honey or maple syrup",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 tablespoon sesame oil",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 tablespoons soy sauce",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 tablespoon rice vinegar",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 tablespoons toasted sesame seeds",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "TO SERVE 300g brown rice (see page 193)",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "af\\s) ",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "SERVES 6-8",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2. tablespoons extra virgin olive oil, plus extra for greasing",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 large white onion, peeled and finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 bulb of fennel, finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "3 cloves of garlic, finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 teaspoon fennel seeds",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a small bunch of parsley, roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "3 red peppers from a jar, sliced and chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "AOg green olives, pitted and roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 x 400g tin chopped tomatoes",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1% tablespoons sherry vinegar",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 teaspoons smoked paprika",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "400g pasta (penne, fusilli, conchiglie, casarecce)",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 teaspoon vegetable stock powder or 400ml hot",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "vegetable stock",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "FOR THE TOPPING 40g breadcrumbs 30g Manchego or vegan cheese,",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "finely grated",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Piquant smoked paprika pasta bake",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "| can\u2019t get enough of baked pasta. There are far fancier things to eat for dinner but almost nothing that is more comforting. Sauce bubbling at the edges, a crisp golden top. This pasta bake has its heart in Italy but has borrowed a few Spanish flavours too. It is made often. The pasta goes",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "into the bake uncooked here , saving a little time.",
+        "topic": {
+            "blurb": 1.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Preheat the oven to 200\u00b0C/180\u00b0C fan/gas 6.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Grease a 20cm x 30cm deep baking dish with olive oil. Toss the onion, fennel, garlic and fennel seeds in the baking dish with 2 tablespoons of olive oil and half a teaspoon of flaky sea salt and place in the hot oven",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "for 15 minutes until starting to soften but not yet colouring",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "While the onions and fennel are cooking in the oven, get your other ingredients together and boil the kettle.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Keep a handful of parsley back for the breadcrumb topping and add the remaining ingredients, except the vegetable stock powder, to the baking dish with the onions and fennel. Season well with salt and pepper and stir to combine. Put the stock powder into a measuring jug and top with 400ml hot water from the kettle. Pour over the filled baking tray, so the liquid comes to just below the level of the pasta.  Cover the tray tightly with foil and return to the oven for 45 minutes.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Mix the breadcrumbs and Manchego together with the reserved parsley.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "After the pasta has had its time in the oven, lift it out, remove the foil and scatter the breadcrumb mix over the top. Return.to the oven for 10-12 minutes until golden and crisp on top. Allow the pasta bake to rest out of the oven for at least 10 minutes before serving. This will help the",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "sauce to thicken (and the pasta won't burn your mouth as you eat it!). ",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "SERVES 4",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 medium butternut squash",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "5 tablespoons olive or coconut oil",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 tablespoons coriander seeds",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "4 cardamom pods, seeds removed",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "3 sticks of lemongrass, very finely chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "3 red chillies, roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "4 unwaxed limes",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a thumb-sized piece of ginger, peeled",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "250ml thick Greek or coconut",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "TO SERVE",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "150g roasted unsalted peanuts, roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a large bunch of coriander leaves,   roughly chopped",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Roasted squash with lemongrass, peanut & lime",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "A one-tray dinner that takes roast squash in a more unusual flavour direction: heady lemongrass, crunch from roasted peanuts, punchy ginger and lime and chilli with some yoghurt for acidity. For the really hungry, some brown or basmati rice here would work, but | eat this just as it is.",
+        "topic": {
+            "blurb": 1.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Heat the oven to 200\u00b0C/180\u00b0C fan/gas 6. If your squash is a butternut or thin-skinned variety, there is no need to peel it. Halve it, scoop out the seeds and cut into thick slices or boats. Lay them on a roasting",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "tray and drizzle with the oil.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Bash the coriander and cardamom seeds in a pestle and mortar.  Add the chopped lemongrass and bash again to break it down a little.  Scatter half this mixture over the squash with a good pinch of salt, and",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "the chopped chillies, keeping the other half of the lemongrass mixture for later.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Use a fine grater to zest 2 of the limes over the top of the squash, then cut the 2 limes in half and squeeze the juice over as well.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "everything together and put the lot into the hot oven for 45 minutes, or until the squash is golden.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Meanwhile, make the sauce. Put the reserved lemongrass mixture",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "into a bowl with the zest and juice of the remaining limes, finely grate in the ginger, add the yoghurt and mix well.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Once the squash is roasted perfectly, lay it ona serving platter,",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "sprinkle over the peanuts and coriander leaves and serve the yoghurt on the side for spooning over. ",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Sweet potato & miso noodle broth",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 1.0
+        }
+    },
+    {
+        "text": "The quickest of soups that uses three of my favourite flavour boosters: coconut milk, miso and tamarind. The coconut cream brings a richness which adds a depth of flavour. The miso brings umami which creates layers of flavours, and the tamarind adds a sharpness which offsets",
+        "topic": {
+            "blurb": 1.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "the coconut. They are ingredients | keep on hand for nights when food needs to be fast. All sit happily in the cupboard or fridge for months. I've purposely left the choice of green veg down to you so you can use what you have and what's in season. Just be sure to cut things which take a",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "little longer to cook into smaller pieces, so everything cooks evenly.",
+        "topic": {
+            "blurb": 1.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Fill and boil the kettle and put two pans on the hob. Once the kettle has boiled, fill one pan one-third full and add the egg noodles. Bring to the boil over a high heat and cook according to the packet instructions.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Next, pour 200ml water into the other pan, add the coconut milk and tamarind, grate in the ginger and put over a medium heat. Peel and thinly slice the sweet potato and add to the pan. Simmer over a high",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "heat for 10 minutes or until the sweet potato is cooked.   in a small bow! mix the miso paste with 4 tablespoons of cold water.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Take the broth off the heat and stir in the miso mixture,",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "Once the noodles are cooked, divide between two bowls. Put the broth back on the heat, add the green vegetables to the broth and allow to simmer for 2-3 minutes until the vegetables are just cooked and any greens have wilted, then take off the heat. Ladle the soup over the",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "noodles and top with the togarashi, herbs, chilli and spring onions.",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 1.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "SERVES 2",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "150g dried egg or rice noodles",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 x 400ml tin coconut milk",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 tablespoon tamarind paste",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a small thumb-sized piece of ginger, peeled",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 medium sweet potato",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 tablespoons miso paste",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 large handfuls of green vegetables (I use a mixture of shredded greens, broccoli and",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "green beans)",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "TO SERVE",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 1.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 tablespoons tdgarashi seasoning",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "a small bunch of basil or mint, leaves picked",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "2 spring onions, thinly sliced",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
+    },
+    {
+        "text": "1 red chilli, finely chopped ",
+        "topic": {
+            "blurb": 0.0,
+            "ingredient": 1.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0
+        }
     }
 ]

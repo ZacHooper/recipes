@@ -42,12 +42,10 @@ ner_model = spacy.load("ner_output/model-best")
 path_to_tesseract = r"/opt/homebrew/opt/tesseract/bin/tesseract"
 
 images = [
-    # "sample_data/recipes/AJ-MODERN-caper_and_watercress.JPG",
-    # "sample_data/recipes/AJ-MODERN-cherry_and_almond_breakfast.JPG",
-    "sample_data/recipes/AJ-MODERN-little_pea_and_white_bean.JPG",
-    "sample_data/recipes/AJ-MODERN-pistachio_and_ricotta_dumplings.JPG",
-    "sample_data/recipes/AJ-MODERN-sesame_and_green_olive.JPG",
-    "sample_data/recipes/AJ-MODERN-Smoky_corn_chowder.png",
+    "sample_data/recipes/AJ-OPPP-greens_and_caramelised_tofu.JPG",
+    "sample_data/recipes/AJ-OPPP-piquant_smoked_paprika_pasta_bake.JPG",
+    "sample_data/recipes/AJ-OPPP-roasted_squash_with_lemongrass.JPG",
+    "sample_data/recipes/AJ-OPPP-sweet_potato_and_miso_noodle_broth.JPG",
 ]
 
 # image_path = r"sample_data/recipes/AJ_OPPP-winter_red_cabbage.JPG"
@@ -137,8 +135,10 @@ for image_path in images:
         max_value = max(potential_cats.values())
         if max_value < 0.5 and USER_INPUT:
             # get input from user
+            og_key = [k for k, v in potential_cats.items() if v == max_value][0]
+            print(f"Original topic: {og_key}, score: {max_value}")
             max_key = input(
-                f"Could not classify {text}. \nPlease enter a category: ('title', 'blurb', 'ingredient', 'method', 'other')\nInput topic: "
+                f"Could not classify: {text} -- \nPlease enter a category: ('title', 'blurb', 'ingredient', 'method', 'other')\nInput topic: "
             )
         else:
             # get key of max value
