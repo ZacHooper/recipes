@@ -1,1 +1,265 @@
-{"classes":["INGRED","AMOUNT","UNIT","PREP"],"annotations":[["520 g (1 Ib 2 02) tin of sweetcorn, drained, ",{"entities":[[0,3,"AMOUNT"],[4,5,"UNIT"],[7,8,"AMOUNT"],[9,11,"UNIT"],[18,34,"INGRED"],[36,43,"PREP"]]}],["3 tbsp vegetable oil, ",{"entities":[[0,1,"AMOUNT"],[2,6,"UNIT"],[7,21,"INGRED"]]}],["pinch of asafoetida, ",{"entities":[[0,5,"PREP"],[9,19,"INGRED"]]}],["1 heaped tsp black mustard seeds, ",{"entities":[[0,1,"AMOUNT"],[2,12,"UNIT"],[13,32,"INGRED"]]}],["1 tsp ground turmeric, ",{"entities":[[0,1,"AMOUNT"],[2,5,"UNIT"],[6,21,"INGRED"]]}],["salt, to taste, ",{"entities":[[0,4,"INGRED"],[6,14,"PREP"]]}],["1 tbsp finely chopped coriander (cilantro), ",{"entities":[[0,1,"AMOUNT"],[2,6,"UNIT"],[7,21,"PREP"],[22,31,"INGRED"],[33,41,"INGRED"]]}],["1 tbsp roasted peanuts, crushed, ",{"entities":[[0,1,"AMOUNT"],[2,6,"UNIT"],[7,22,"INGRED"],[24,31,"PREP"]]}],["3 garlic cloves, roughly chopped, ",{"entities":[[0,1,"AMOUNT"],[2,15,"INGRED"],[17,32,"PREP"]]}],["5 cm (2 in) ginger root, roughly chopped",{"entities":[[0,1,"AMOUNT"],[2,4,"UNIT"],[6,7,"AMOUNT"],[8,10,"UNIT"],[12,23,"INGRED"],[25,40,"PREP"]]}]]}
+{
+    "classes": [
+        "INGRED",
+        "AMOUNT",
+        "UNIT",
+        "PREP"
+    ],
+    "annotations": [
+        [
+            "520 g (1 Ib 2 02) tin of sweetcorn, drained, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        3,
+                        "AMOUNT"
+                    ],
+                    [
+                        4,
+                        5,
+                        "UNIT"
+                    ],
+                    [
+                        7,
+                        8,
+                        "AMOUNT"
+                    ],
+                    [
+                        9,
+                        11,
+                        "UNIT"
+                    ],
+                    [
+                        18,
+                        34,
+                        "INGRED"
+                    ],
+                    [
+                        36,
+                        43,
+                        "PREP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "3 tbsp vegetable oil, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        6,
+                        "UNIT"
+                    ],
+                    [
+                        7,
+                        21,
+                        "INGRED"
+                    ]
+                ]
+            }
+        ],
+        [
+            "pinch of asafoetida, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PREP"
+                    ],
+                    [
+                        9,
+                        19,
+                        "INGRED"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 heaped tsp black mustard seeds, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        12,
+                        "UNIT"
+                    ],
+                    [
+                        13,
+                        32,
+                        "INGRED"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 tsp ground turmeric, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        5,
+                        "UNIT"
+                    ],
+                    [
+                        6,
+                        21,
+                        "INGRED"
+                    ]
+                ]
+            }
+        ],
+        [
+            "salt, to taste, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "INGRED"
+                    ],
+                    [
+                        6,
+                        14,
+                        "PREP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 tbsp finely chopped coriander (cilantro), ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        6,
+                        "UNIT"
+                    ],
+                    [
+                        7,
+                        21,
+                        "PREP"
+                    ],
+                    [
+                        22,
+                        31,
+                        "INGRED"
+                    ],
+                    [
+                        33,
+                        41,
+                        "INGRED"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 tbsp roasted peanuts, crushed, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        6,
+                        "UNIT"
+                    ],
+                    [
+                        7,
+                        22,
+                        "INGRED"
+                    ],
+                    [
+                        24,
+                        31,
+                        "PREP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "3 garlic cloves, roughly chopped, ",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        15,
+                        "INGRED"
+                    ],
+                    [
+                        17,
+                        32,
+                        "PREP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "5 cm (2 in) ginger root, roughly chopped",
+            {
+                "entities": [
+                    [
+                        0,
+                        1,
+                        "AMOUNT"
+                    ],
+                    [
+                        2,
+                        4,
+                        "UNIT"
+                    ],
+                    [
+                        6,
+                        7,
+                        "AMOUNT"
+                    ],
+                    [
+                        8,
+                        10,
+                        "UNIT"
+                    ],
+                    [
+                        12,
+                        23,
+                        "INGRED"
+                    ],
+                    [
+                        25,
+                        40,
+                        "PREP"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

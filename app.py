@@ -13,7 +13,8 @@ USER_INPUT = False
 ### --------------------- ###
 #       Load Models         #
 ### --------------------- ###
-topic_model = spacy.load("output/model-best")
+topic_model = spacy.load("textcat_output/model-best")
+ner_model = spacy.load("ner_output/model-best")
 
 ### --------------------- ###
 #       Image Import        #
@@ -22,7 +23,7 @@ topic_model = spacy.load("output/model-best")
 # Defining paths to tesseract.exe
 # and the image we would be using
 path_to_tesseract = r"/opt/homebrew/opt/tesseract/bin/tesseract"
-image_path = r"sample_data/Tahini-test_kitchen.png"
+image_path = r"sample_data/recipes/AJ_OPPP-winter_red_cabbage.JPG"
 
 # Opening the image & storing it in an image object
 img = cv2.imread(image_path)
@@ -84,14 +85,18 @@ for sent in doc.sents:
     paragraph.append(sent)
 paragraphs.append(paragraph)
 
+print(paragraphs)
+
 # Merge paragraphs into a single string
 texts = []
 for paragraph in paragraphs:
     text = ""
     if len(paragraph) > 1:
         text = " ".join([sent.text for sent in paragraph])
-    else:
+    elif len(paragraph) == 1:
         text = paragraph[0].text
+    else:
+        continue
 
     # remove \n
     text = text.replace("\n", " ")
@@ -114,9 +119,43 @@ for text in texts:
     else:
         # get key of max value
         max_key = [k for k, v in potential_cats.items() if v == max_value]
-    cats.append({"text": text, "topic": max_key, "scores": potential_cats})
+    cats.append(
+        {
+            "text": text,
+            "chosen_topic": max_key[0],
+            "topic_score": max_value,
+            "scores": potential_cats,
+        }
+    )
 
-print(json.dumps(cats, indent=4))
+print(
+    json.dumps(
+        [
+            f"{cat['text'][:25]} - {cat['chosen_topic']} - {cat['topic_score']}"
+            for cat in cats
+        ],
+        indent=4,
+    )
+)
+
+with open("sample_data/topic_training_2.json", "w") as f:
+    # Spacy does not currently support partial scores of topics so we will hardcode the chosen topic to 1.0
+    # and hardcode the other topics to 0.0. I will be manually updating the topic and scores if incorrect
+    for cat in cats:
+        cat["topic"] = {
+            "blurb": 0.0,
+            "ingredient": 0.0,
+            "method": 0.0,
+            "other": 0.0,
+            "title": 0.0,
+        }
+        cat["topic"][cat["chosen_topic"]] = 1.0
+        cat.pop("scores", None)
+        cat.pop("chosen_topic", None)
+        cat.pop("topic_score", None)
+
+    json.dump(cats, f, indent=4)
+
 
 # def get_serving_sentences(paragraphs: list) -> tuple[int, str]:
 #     for idx, paragraph in enumerate(paragraphs):
